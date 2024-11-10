@@ -1,0 +1,22 @@
+,Courier Status,Status,count
+7,Shipped,Shipped,77607
+9,Shipped,Shipped - Delivered to Buyer,28748
+3,On the Way,Cancelled,6859
+0,Cancelled,Cancelled,5845
+16,Unshipped,Cancelled,5630
+14,Shipped,Shipped - Returned to Seller,1951
+12,Shipped,Shipped - Picked Up,973
+17,Unshipped,Pending,646
+18,Unshipped,Pending - Waiting for Pick Up,281
+15,Shipped,Shipped - Returning to Seller,145
+19,Unshipped,Shipped,115
+2,Cancelled,Shipped,93
+11,Shipped,Shipped - Out for Delivery,35
+13,Shipped,Shipped - Rejected by Buyer,11
+6,Shipped,Pending,10
+20,Unshipped,Shipping,8
+4,On the Way,Shipped - Delivered to Buyer,8
+10,Shipped,Shipped - Lost in Transit,5
+5,On the Way,Shipped - Returned to Seller,3
+1,Cancelled,Pending,2
+8,Shipped,Shipped - Damaged,1
